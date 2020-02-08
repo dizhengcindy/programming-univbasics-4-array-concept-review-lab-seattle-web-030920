@@ -31,5 +31,5 @@ def find_min_value(array)
       end
       counter +=1 
     end
-    retun minNum
+    return minNum
 end
